@@ -1,0 +1,17 @@
+C:\Projects\PruebaTecnia\RedArborTest.API\EntityFreamworkBD\bin\Debug\net8.0\EntityFreamworkBD.deps.json
+C:\Projects\PruebaTecnia\RedArborTest.API\EntityFreamworkBD\bin\Debug\net8.0\EntityFreamworkBD.runtimeconfig.json
+C:\Projects\PruebaTecnia\RedArborTest.API\EntityFreamworkBD\bin\Debug\net8.0\EntityFreamworkBD.dll
+C:\Projects\PruebaTecnia\RedArborTest.API\EntityFreamworkBD\bin\Debug\net8.0\EntityFreamworkBD.pdb
+C:\Projects\PruebaTecnia\RedArborTest.API\EntityFreamworkBD\bin\Debug\net8.0\Models.dll
+C:\Projects\PruebaTecnia\RedArborTest.API\EntityFreamworkBD\bin\Debug\net8.0\Models.pdb
+C:\Projects\PruebaTecnia\RedArborTest.API\EntityFreamworkBD\obj\Debug\net8.0\EntityFreamworkBD.csproj.AssemblyReference.cache
+C:\Projects\PruebaTecnia\RedArborTest.API\EntityFreamworkBD\obj\Debug\net8.0\EntityFreamworkBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PruebaTecnia\RedArborTest.API\EntityFreamworkBD\obj\Debug\net8.0\EntityFreamworkBD.AssemblyInfoInputs.cache
+C:\Projects\PruebaTecnia\RedArborTest.API\EntityFreamworkBD\obj\Debug\net8.0\EntityFreamworkBD.AssemblyInfo.cs
+C:\Projects\PruebaTecnia\RedArborTest.API\EntityFreamworkBD\obj\Debug\net8.0\EntityFreamworkBD.csproj.CoreCompileInputs.cache
+C:\Projects\PruebaTecnia\RedArborTest.API\EntityFreamworkBD\obj\Debug\net8.0\EntityFreamworkBD.csproj.CopyComplete
+C:\Projects\PruebaTecnia\RedArborTest.API\EntityFreamworkBD\obj\Debug\net8.0\EntityFreamworkBD.dll
+C:\Projects\PruebaTecnia\RedArborTest.API\EntityFreamworkBD\obj\Debug\net8.0\refint\EntityFreamworkBD.dll
+C:\Projects\PruebaTecnia\RedArborTest.API\EntityFreamworkBD\obj\Debug\net8.0\EntityFreamworkBD.pdb
+C:\Projects\PruebaTecnia\RedArborTest.API\EntityFreamworkBD\obj\Debug\net8.0\EntityFreamworkBD.genruntimeconfig.cache
+C:\Projects\PruebaTecnia\RedArborTest.API\EntityFreamworkBD\obj\Debug\net8.0\ref\EntityFreamworkBD.dll

@@ -1,0 +1,12 @@
+C:\Projects\PruebaTecnia\RedArborTest.API\DapperBD\bin\Debug\net8.0\DapperBD.deps.json
+C:\Projects\PruebaTecnia\RedArborTest.API\DapperBD\bin\Debug\net8.0\DapperBD.dll
+C:\Projects\PruebaTecnia\RedArborTest.API\DapperBD\bin\Debug\net8.0\DapperBD.pdb
+C:\Projects\PruebaTecnia\RedArborTest.API\DapperBD\obj\Debug\net8.0\DapperBD.csproj.AssemblyReference.cache
+C:\Projects\PruebaTecnia\RedArborTest.API\DapperBD\obj\Debug\net8.0\DapperBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PruebaTecnia\RedArborTest.API\DapperBD\obj\Debug\net8.0\DapperBD.AssemblyInfoInputs.cache
+C:\Projects\PruebaTecnia\RedArborTest.API\DapperBD\obj\Debug\net8.0\DapperBD.AssemblyInfo.cs
+C:\Projects\PruebaTecnia\RedArborTest.API\DapperBD\obj\Debug\net8.0\DapperBD.csproj.CoreCompileInputs.cache
+C:\Projects\PruebaTecnia\RedArborTest.API\DapperBD\obj\Debug\net8.0\DapperBD.dll
+C:\Projects\PruebaTecnia\RedArborTest.API\DapperBD\obj\Debug\net8.0\refint\DapperBD.dll
+C:\Projects\PruebaTecnia\RedArborTest.API\DapperBD\obj\Debug\net8.0\DapperBD.pdb
+C:\Projects\PruebaTecnia\RedArborTest.API\DapperBD\obj\Debug\net8.0\ref\DapperBD.dll
